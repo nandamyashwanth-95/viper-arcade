@@ -1,0 +1,6 @@
+{
+  "name": "Snake Game",
+  "description": "A classic snake arcade game featuring responsive controls, collision detection, particle effects, multiple difficulty modes, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
